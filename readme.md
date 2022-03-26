@@ -6,6 +6,10 @@ During joint replacement surgery, unhealthy bone is removed (bone re-sectioning)
 Where the robot cuts the femur is defined by a cutting plane (see CuttingPlaneExample.png) and is given to you in a .txt file. The file contains a list of point coordinates (x, y, z). Unfortunately, the coordinates are in the robot coordinate frame (RCF), whilst the CT and segmentation are in the image coordinate frame (ICF). Before you can calculate your mask, you must project/transform the cutting plane points from the RCF into the ICF, so they align with the CT. To do this, you are given the scaling and translation parameters of the transformation from the ICF into the RCF.
 
 
-# Presentation
-[Slides](https://docs.google.com/presentation/d/1L3ZMRtjEY-gRkPHrG-GGYYt0x0PYmp3ITX8GWua2_k0/edit?usp=sharing)
+# Solution
+
+
 ![Solution](solution.png)
+
+
+[More info](https://docs.google.com/presentation/d/1L3ZMRtjEY-gRkPHrG-GGYYt0x0PYmp3ITX8GWua2_k0/edit?usp=sharing)
