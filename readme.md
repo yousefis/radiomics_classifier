@@ -8,3 +8,4 @@ Where the robot cuts the femur is defined by a cutting plane (see CuttingPlaneEx
 
 # Presentation
 [Slides](https://docs.google.com/presentation/d/1L3ZMRtjEY-gRkPHrG-GGYYt0x0PYmp3ITX8GWua2_k0/edit?usp=sharing)
+![alt text](radiomics_classifier/solution.png)
